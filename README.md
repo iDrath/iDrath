@@ -69,7 +69,7 @@
 </details>
 
 [website]: https://www.linkedin.com/in/idrath/
-[twitter]: https://www.linkedin.com/in/idrath/
+[twitter]: https://twitter.com/DybDesign
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/idr3ad/
 [linkedin]: https://www.linkedin.com/in/idrath/
