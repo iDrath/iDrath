@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Eduardo - aka iDrath</h1>  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1>Hi there, I'm Eduardo - aka iDrath <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>  
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iDrath.iDrath)<br />
