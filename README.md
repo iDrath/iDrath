@@ -4,11 +4,15 @@
 
 ## I'm a Human, Developer, and Eternal-Apprentice!
 
-- 🔭 I’m currently available to work!
-- 🌱 I’m currently learning PHP/Laravel
-- 👯 I’m looking for a job where they allow me to do my work practice
-- 🥅 2020 Goals: Get a job as a developer
-- ⚡ Fun fact: I love to walk and doing Parkour
+- 🔭 I’m currently working **available to work!**
+
+- 🌱 I’m currently learning **PHP/Laravel**
+
+- 👯 I’m looking looking for **a job where they allow me to do my work practice**
+
+- 📝 2020 Goals: **Get a job as a developer**
+
+- ⚡ Fun fact: **I love to walk and doing Parkour**
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g)
@@ -25,17 +29,7 @@
 
 ### Languages and Tools:
 
-<a><img width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<a><img alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" /></a>
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-<a><img alt="SQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrath&layout=compact&hide=html" alt="idrath" /></p>
 
 <br />
 <br />
