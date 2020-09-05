@@ -55,8 +55,7 @@
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrath&show_icons=true" alt="idrath" /></p>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idrath" alt="idrath" /> </p>
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iDrath.iDrath)
