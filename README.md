@@ -43,14 +43,16 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrath&layout=compact&hide=html" alt="idrath" /></p>
+
 
 <br />
 <br />
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrath&layout=compact&hide=html" alt="idrath" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrath&show_icons=true" alt="idrath" /></p>
 
 
 
