@@ -1,6 +1,7 @@
 <h1>Hi there, I'm Eduardo - aka iDrath</h1>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iDrath.iDrath)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iDrath.iDrath)<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/DybDesign?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DybDesign)
 
 ## I'm a Human, Developer, and Eternal-Apprentice!
