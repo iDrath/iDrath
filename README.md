@@ -6,11 +6,11 @@
 
 ## I'm a Human, Developer, and Eternal-Apprentice!
 
-- 🔭 I’m currently working **available to work!**
+- 🔭 I’m currently **available to work!**
 
 - 🌱 I’m currently learning **PHP/Laravel**
 
-- 👯 I’m looking looking for **a job where they allow me to do my work practice**
+- 👯 I’m looking for **a job where they allow me to do my work practice**
 
 - 📝 2020 Goals: **Get a job as a developer**
 
